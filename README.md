@@ -33,8 +33,8 @@ Create an easy to understand user friendly environment.
 
 ### Reference:
 
-Tkinter Library:  https://docs.python.org/2/libarary/tkinter.html
-Python3:  https://www.python.org/
+Tkinter Library:  https://docs.python.org/2/libarary/tkinter.html<br/>
+Python3:  https://www.python.org/ <br/>
 SQLite:  https://www.sqlite.org/
 
 
