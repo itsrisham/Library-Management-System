@@ -31,6 +31,16 @@ Create an easy to understand user friendly environment.
 * GUI Library: Tkinter
 * Editor: Sublime Text
 
+### Screen Layouts
+
+<img src="s11.png" alt="alt text" width="900" height="500"> 
+
+
+<img src="s22.png" alt="alt text" width="900" height="500">
+
+
+<img src="s33.png" alt="alt text" width="900" height="500">
+
 ### Reference:
 
 Tkinter Library:  https://docs.python.org/2/libarary/tkinter.html<br/>
